@@ -9,4 +9,4 @@ I made this site for you
 
 <h2>웹 표준 사이트</h2>
 <p>2018.12.28 완성</p>
-<a href="">VIEW</a>
+<a href="https://leehye1204.github.io/webstandard1/">VIEW</a>
